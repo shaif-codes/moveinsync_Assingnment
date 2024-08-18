@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardColor1">#bda28d</color>
+    <color name="cardColor2">#f9e8ce</color>
+    <color name="cardColor3">#d49f91</color>
+    <color name="cardColor4">#d9dbe7</color>
+    <color name="cardColor5">#769898</color>
+    <color name="cardColor6">#fbf8b9</color>
+    <color name="cardColor7">#bda280</color>
+    <color name="cardColor8">#8ba888</color>
+    <color name="cardColor9">#f1ebe1</color>
+</resources>
